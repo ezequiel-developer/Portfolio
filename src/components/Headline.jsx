@@ -46,7 +46,7 @@ const Headline = () => {
 
             <div className="flex flex-col items-center">
                 <div className='h-[140px] md:h-auto'>
-                    <h2 className='text-white text-2xl uppercase font-bold text-center'>Olá, meu nome é Ezequiel</h2>
+                    <h3 className='text-white text-2xl uppercase font-bold text-center'>Olá, meu nome é Ezequiel</h3>
                     <h1 className='text-[#1845CD] uppercase text-4xl font-bold text-center whitespace-pre-line'>
                         <h1>Desenvolvedor <br /> Front-End </h1>
                     </h1>
